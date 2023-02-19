@@ -1037,7 +1037,6 @@ section {
 
 .post.post-over-content .thumb::after {
     content: "";
-    background:#056b27 ;
     display: block;
     height: 100%;
     left: 0;
